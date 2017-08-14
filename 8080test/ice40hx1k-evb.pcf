@@ -7,6 +7,11 @@ set_io --warn-no-port swi[1] 42
 set_io led1 40
 set_io led2 51
 
+set_io sck  20
+set_io ss   21
+set_io din  24
+set_io dout 25
+
 set_io --warn-no-port sd[0] 62
 set_io --warn-no-port sd[1] 63
 set_io --warn-no-port sd[2] 64
