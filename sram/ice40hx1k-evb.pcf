@@ -1,0 +1,51 @@
+set_io clk 15
+
+set_io --warn-no-port DAT[0] 62
+set_io --warn-no-port DAT[1] 63
+set_io --warn-no-port DAT[2] 64
+set_io --warn-no-port DAT[3] 65
+set_io --warn-no-port DAT[4] 66
+set_io --warn-no-port DAT[5] 68
+set_io --warn-no-port DAT[6] 69
+set_io --warn-no-port DAT[7] 71
+set_io --warn-no-port DAT[8] 72
+set_io --warn-no-port DAT[9] 60
+set_io --warn-no-port DAT[10] 59
+set_io --warn-no-port DAT[11] 57
+set_io --warn-no-port DAT[12] 56
+set_io --warn-no-port DAT[13] 54
+set_io --warn-no-port DAT[14] 53
+set_io --warn-no-port DAT[15] 52
+
+set_io ADR[0] 79
+set_io ADR[1] 80
+set_io ADR[2] 81
+set_io ADR[3] 82
+set_io ADR[4] 83
+set_io ADR[5] 85
+set_io ADR[6] 86
+set_io ADR[7] 87
+set_io ADR[8] 89
+set_io ADR[9] 90
+set_io ADR[10] 91
+set_io ADR[11] 93
+set_io ADR[12] 94
+set_io ADR[13] 95
+set_io ADR[14] 96
+set_io ADR[15] 97
+set_io ADR[16] 99
+set_io ADR[17] 100
+
+set_io --warn-no-port RAMOE 74
+set_io --warn-no-port RAMWE 73
+set_io --warn-no-port RAMCS 78
+
+set_io PMOD[7] 40
+set_io PMOD[6] 51
+set_io PMOD[0] 26
+set_io PMOD[1] 27
+set_io PMOD[2] 28
+set_io PMOD[3] 29
+set_io PMOD[4] 30
+set_io PMOD[5] 33
+

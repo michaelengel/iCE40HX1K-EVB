@@ -1,0 +1,49 @@
+set_io clock100 15
+set_io reset 1
+set_io rxd 36
+set_io txd 37
+set_io --warn-no-port swi[0] 41
+set_io --warn-no-port swi[1] 42
+set_io led1 40
+set_io led2 51
+
+set_io --warn-no-port sd[0] 62
+set_io --warn-no-port sd[1] 63
+set_io --warn-no-port sd[2] 64
+set_io --warn-no-port sd[3] 65
+set_io --warn-no-port sd[4] 66
+set_io --warn-no-port sd[5] 68
+set_io --warn-no-port sd[6] 69
+set_io --warn-no-port sd[7] 71
+set_io --warn-no-port sd[8] 72
+set_io --warn-no-port sd[9] 60
+set_io --warn-no-port sd[10] 59
+set_io --warn-no-port sd[11] 57
+set_io --warn-no-port sd[12] 56
+set_io --warn-no-port sd[13] 54
+set_io --warn-no-port sd[14] 53
+set_io --warn-no-port sd[15] 52
+
+set_io --warn-no-port sa[0] 79
+set_io --warn-no-port sa[1] 80
+set_io --warn-no-port sa[2] 81
+set_io --warn-no-port sa[3] 82
+set_io --warn-no-port sa[4] 83
+set_io --warn-no-port sa[5] 85
+set_io --warn-no-port sa[6] 86
+set_io --warn-no-port sa[7] 87
+set_io --warn-no-port sa[8] 89
+set_io --warn-no-port sa[9] 90
+set_io --warn-no-port sa[10] 91
+set_io --warn-no-port sa[11] 93
+set_io --warn-no-port sa[12] 94
+set_io --warn-no-port sa[13] 95
+set_io --warn-no-port sa[14] 96
+set_io --warn-no-port sa[15] 97
+set_io --warn-no-port sa[16] 99
+set_io --warn-no-port sa[17] 100
+
+set_io --warn-no-port soe 74
+set_io --warn-no-port swe 73
+set_io --warn-no-port scs 78
+
